@@ -1,7 +1,5 @@
-# FizzBuzzBasicJava
-FizzBuzz implemented with basic java 
-
-Notice:
-1. Application main class: com.walter.fizzbuzz.Main
-2. UT test suite class: com.walter.fizzbuzz.testsuite.FizzBuzzSuiteTest
-3. The tag named 'stage1' is for stage1 requirement, while that name 'stage2' is for stage2 requirement.
+# fizzbuzz
+FizzBuzz is implemented in basic Java
+Note:
+1. The application is the Main class: com. Walter l. fizzbuzz. Main
+2. The method named "stage1" is used for stage1 requirements, while the method "stage2" is used for stage2 requirements.
