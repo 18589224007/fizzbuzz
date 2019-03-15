@@ -3,7 +3,7 @@ package com.demo.fizzbuzz;
 public class Main {
 
 	public static void main(String[] args) {
-		stage1();
+		stage1() ;
 		//stage2();
 
 	}
